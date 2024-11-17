@@ -13,7 +13,6 @@ Data after all cleaning, processing, and analyzing.
 ---
 
 ## Data Dictionary 
-## Data Dictionary
 
 | Field       | Description                        | Samples                 |
 |-------------|------------------------------------|-------------------------|
