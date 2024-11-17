@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc. 
