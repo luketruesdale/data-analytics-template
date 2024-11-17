@@ -1,3 +1,18 @@
+# Project Template
+
+This repository serves as a **template for organizing data analysis and research projects**. It provides a standardized structure to keep files organized and ensure efficient collaboration. Use this template as a starting point for your own projects to streamline workflows and maintain clarity.
+
+## Folder Structure
+
+- **`assets/`**: Contains supporting materials like PDFs, data dictionaries, and reference documents.
+- **`code/`**: Includes Jupyter notebooks and Python scripts for data analysis, modeling, and visualization.
+- **`data/`**: Houses raw, intermediate, and cleaned datasets used in the project.
+- **`results/`**: Stores outputs such as visualizations, reports, and final presentations.
+
+## Additional Files
+
+- **`.gitignore`**: Specifies files and directories to ignore in version control.
+- **`README.md`**: Documentation for the project template.
 
 ### To-do List
 ---
