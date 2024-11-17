@@ -10,5 +10,7 @@
 ### Change Log
 --- 
 
-- 2024-11-17 _______lat_________ finish hw
-- 2024-11-13 ________lat________ in class set up
+| Date       | Initials | Details            |
+|------------|----------|--------------------|
+| 2024-11-17 | lat      | Finish HW          |
+| 2024-11-13 | lat      | In class set up    |
